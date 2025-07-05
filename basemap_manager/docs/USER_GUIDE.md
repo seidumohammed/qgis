@@ -47,5 +47,5 @@ Type in the search box to filter basemaps by name
 | Basemap doesn't appear | Check layer panel visibility |
 
 ## Contact Support
-Email: support@basemap-plugin.com  
+Email: seidumohammed64@gmail.com  
 GitHub: [github.com/basemap-manager](https://github.com/seidumohammed/qgis/tree/main/basemap_manager)
