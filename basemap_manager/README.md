@@ -9,7 +9,7 @@ A QGIS plugin that provides one-click access to multiple basemap providers with 
 ![Plugin Interface](docs/screenshot.png)
 
 ## Features
-- 15+ preconfigured basemap providers (OSM, Google, ESRI, CartoDB)
+- 10 preconfigured basemap providers (OSM, Google, ESRI, CartoDB)
 - Custom XYZ template support
 - Automatic layer management
 - CRS auto-correction
