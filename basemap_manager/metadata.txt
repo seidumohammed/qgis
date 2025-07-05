@@ -10,8 +10,8 @@ category=Background
 tags=basemap,xyz,background,osm
 
 [plugin]
-repository=https://github.com/your-repo/basemap-manager
-tracker=https://github.com/your-repo/basemap-manager/issues
+repository=https://github.com/seidumohammed/qgis/tree/main/basemap_manager
+tracker=https://github.com/seidumohammed/qgis/tree/main/basemap_manager/issues
 logo=logo.png
 experimental=True
 deprecated=False
