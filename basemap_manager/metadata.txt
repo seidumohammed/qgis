@@ -1,0 +1,17 @@
+[general]
+name=Basemap Manager
+qgisMinimumVersion=3.16
+version=1.0
+author=Your Name
+email=seidumohammed64@gmail.com
+description=One-click access to multiple basemap providers with layer management
+about=Simplifies basemap selection and management in QGIS projects
+category=Background
+tags=basemap,xyz,background,osm
+
+[plugin]
+repository=https://github.com/your-repo/basemap-manager
+tracker=https://github.com/your-repo/basemap-manager/issues
+logo=logo.png
+experimental=True
+deprecated=False

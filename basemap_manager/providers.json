@@ -1,0 +1,68 @@
+{
+    "osm_standard": {
+        "name": "OpenStreetMap Standard",
+        "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "category": "Street",
+        "zmax": 19,
+        "attribution": "© OpenStreetMap contributors"
+    },
+    "esri_world_topo": {
+        "name": "ESRI World Topography",
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}",
+        "category": "Terrain",
+        "attribution": "Esri"
+    },
+    "esri_world_imagery": {
+        "name": "ESRI World Imagery",
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        "category": "Satellite",
+        "attribution": "Esri, Maxar, Earthstar"
+    },
+    "esri_world_street": {
+        "name": "ESRI World Street Map",
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}",
+        "category": "Street",
+        "attribution": "Esri"
+    },
+    "carto_dark": {
+        "name": "CartoDB Dark Matter",
+        "url": "https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
+        "category": "Dark",
+        "zmax": 20,
+        "attribution": "CartoDB"
+    },
+    "carto_light": {
+        "name": "CartoDB Positron",
+        "url": "https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
+        "category": "Street",
+        "zmax": 20,
+        "attribution": "CartoDB"
+    },
+    "opentopomap": {
+        "name": "OpenTopoMap",
+        "url": "https://a.tile.opentopomap.org/{z}/{x}/{y}.png",
+        "category": "Terrain",
+        "zmax": 17,
+        "attribution": "OpenTopoMap"
+    },
+    "usgs_topo": {
+        "name": "USGS Topo Maps",
+        "url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}",
+        "category": "Topographic",
+        "attribution": "USGS"
+    },
+    "cyclosm": {
+        "name": "CyclOSM (Bike-Oriented)",
+        "url": "https://a.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png",
+        "category": "Transportation",
+        "zmax": 20,
+        "attribution": "CyclOSM"
+    },
+    "arcgis_ocean": {
+        "name": "ESRI Ocean Basemap",
+        "url": "https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}",
+        "category": "Specialty",
+        "attribution": "Esri"
+    }
+   
+}
