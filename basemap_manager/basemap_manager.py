@@ -262,7 +262,7 @@ class BasemapManager:
     
     def open_documentation(self):
         """Open documentation in browser"""
-        webbrowser.open("https://github.com/qgis/basemap-manager/docs")
+        webbrowser.open("https://github.com/seidumohammed/qgis/tree/main/basemap_manager")
     
     def populate_basemap_list(self):
         """Populate list with all available basemaps"""
